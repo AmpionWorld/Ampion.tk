@@ -1,8 +1,3 @@
-<head>
-  <title>Ampion Official Website</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-
 # Ampion Official Website
 
 | Website Name              	| Link                                	|
