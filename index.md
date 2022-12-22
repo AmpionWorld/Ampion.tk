@@ -2,7 +2,7 @@
 
 | Website Name              	| Link                                	|
 |---------------------------	|-------------------------------------	|
-| 🏠 Ampion Official Website 	| [http://ampion.tk](/)         	      |
+| 🏠 Ampion Official Website 	| [http://ampion.tk](/)         	    |
 | 🌆 El Ampion Gallery       	| [http://ampion.tk/gallery](/gallery) 	|
 | 🔎 Ampion Search           	| [http://ampion.tk/search](/search)   	|
 | 🪴 Ampion pArk             	| [http://ampion.tk/park](/park)        |
