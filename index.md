@@ -1,7 +1,5 @@
 # Ampion Official Website
 
-**CHRISTMAS VOTE: [http://ampion.tk/christmas](/christmas)**
-
 | Website Name              	| Link                                	|
 |---------------------------	|-------------------------------------	|
 | 🏠 Ampion Official Website 	| [http://ampion.tk](/)         	    |
