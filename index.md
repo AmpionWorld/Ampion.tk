@@ -9,11 +9,13 @@
 | 📆 Ampion Calendar          | [http://ampion.tk/calendar](/calendar)  |
 | 📖 Ampion Stories           | [http://ampion.tk/stories](/stories)    |
 | 🦟 Mosquito Central         | [http://ampion.tk/moshub](/moshub)      |
-| 📕 Ampion History           | *Coming 27 December 2022*               |
+| 🧌 Ampion GiantSim          | [http://ampion.tk/gs](/gs)
+| 📕 Ampion History           | *Coming 28 December 2022*               |
 | 🎮 Ampion Games             | *Coming 3 January 2023*                 |
 
 
 # Ampion Information Center
 
+- Now you can see Giant Ampion, with Ampion GiantSim! [Start GiantSim Now](/gs)
 - Next Ampion pArk Tour will be on Monday, January 9th, 2023.
 - Ampion pArk Quiz Challenge FINAL ROUND will be on Wednesday, January 4th, 2023. 
