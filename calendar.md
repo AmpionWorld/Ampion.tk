@@ -3,7 +3,10 @@
 |     Date    	|                 Events                 	|
 |-------------	|----------------------------------------	|
 | 25 Dec 2022   | Christmas Day                             |
+| 28 Dec 2022   | Ampion History Page Opens                 |
+|  1 Jan 2023   | Mosquito Information Center Opens         |
 |  1 Jan 2023 	| New Year's Day                        	|
+|  3 Jan 2023   | Ampion Games Page Opens                   |
 |  4 Jan 2023 	| Ampion pArk Quiz Challenge FINAL ROUND 	|
 |  9 Jan 2023 	| Ampion pArk Tour                      	|
 | 11 Jan 2023 	| Ampion pArk VIP Tour + GUIDE          	|

@@ -11,6 +11,7 @@
 | 🦟 Mosquito Central         | [http://ampion.tk/moshub](/moshub)      |
 | 🧌 Ampion GiantSim          | [http://ampion.tk/gs](/gs)              |
 | 🎥 Ampion YouTube           | [http://ampion.tk/youtube](/youtube)    |
+| 🗳️ Ampion Vote              | [http://ampion.tk/vote](/vote)          |
 | 📕 Ampion History           | *Coming 28 December 2022*               |
 | 🎮 Ampion Games             | *Coming 3 January 2023*                 |
 
