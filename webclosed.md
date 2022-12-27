@@ -9,6 +9,11 @@
   </script>
 </head>
 
-<script>
-  window.location.assign("https://phuwatthepro.github.io/omghaxhax1234")
-</script>
+# Website Currently Closed!
+
+Check back later.
+
+### These parts of the website are still open!
+[To Ampion pArk Website](/park)<br>
+[To El Ampion Gallery](/gallery)<br>
+[To Ampion GiantSim](/gs)<br>
