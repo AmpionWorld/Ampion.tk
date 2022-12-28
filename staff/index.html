@@ -7,10 +7,23 @@
 </center>
 
 <script>
+  function key(k) {
+    window.atob(window.atob(window.atob(k)))
+  }
+
   function logIn() {
     var code = prompt("Please enter your staff code.");
-    if (code === '0987') {
+
+    var pass = "VG5wQk5FMUVhM2M9"
+    var keyp = key(pass)
+
+    var guest = "VFVSQmQwMUVRWGM9"
+    var keyg = key(guest)
+
+    if (code === keyp) {
       window.location.assign("/staff/panel");
+    } else if (code === keyg) {
+      window.location.assign("/staff/guest")
     } else {
       alert("Incorrect passcode. Please try again.")
     }
