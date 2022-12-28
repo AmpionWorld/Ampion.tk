@@ -7,25 +7,29 @@
 </center>
 
 <script>
-  function key(k) {
-    window.atob(window.atob(window.atob(k)))
+  function keyp(k) {
+    keyp = window.atob(window.atob(window.atob(k)))
+  }
+
+  function keyg(k) {
+    keyg = window.atob(window.atob(window.atob(k)))
   }
 
   function logIn() {
     var code = prompt("Please enter your staff code.");
 
     var pass = "VG5wQk5FMUVhM2M9"
-    var keyp = key(pass)
+    keyp(pass)
 
     var guest = "VFVSQmQwMUVRWGM9"
-    var keyg = key(guest)
+    keyg(guest)
 
-    if (code === keyp) {
+    if (code == keyp) {
       window.location.assign("/staff/panel");
-    } else if (code === keyg) {
-      window.location.assign("/staff/guest")
+    } else if (code == keyg) {
+      window.location.assign("/staff/guest");
     } else {
-      alert("Incorrect passcode. Please try again.")
+      alert("Incorrect passcode. Please try again.");
     }
   }
 </script>
