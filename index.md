@@ -11,9 +11,9 @@
 
 # Ampion Official Website
 
-| Website Name               | Link                                  	|
+| Website Name               | Link                                  	  |
 |----------------------------|----------------------------------------- |
-| 🌆 El Ampion Gallery       | [http://ampion.tk/gallery](/gallery)  	|
+| 🌆 El Ampion Gallery       | [http://ampion.tk/gallery](/gallery)   	|
 | 🔎 Ampion Search           | [http://ampion.tk/search](/search)       |
 | 🪴 Ampion pArk             | [http://ampion.tk/park](/park)           |
 | 📆 Ampion Calendar         | [http://ampion.tk/calendar](/calendar)   |
@@ -23,6 +23,7 @@
 | 🎥 Ampion YouTube          | [http://ampion.tk/youtube](/youtube)     |
 | 🗳️ Ampion Vote             | [http://ampion.tk/vote](/vote)           |
 | 📕 Ampion History          | [http://ampion.tk/history](/history)     |
+| 📊 Ampion Stats            | [http://ampion.tk/stats](/stats)         |
 | 🎮 Ampion Games            | *Coming 3 January 2023*                  |
 
 
