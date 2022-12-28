@@ -1,17 +1,18 @@
-<br><br>
+<br><br><br>
 
 <center>
-  <b>Staff code incorrect. Reload to login again.</b>
-  <br>
+  <button type="button" onclick="logIn()">Staff Log In</button>
+  <br><br>
   <button type="button" onclick="location.href='/'">Go back to Home Page</button>
 </center>
 
 <script>
-  var code = prompt("Please enter your staff code.");
-
   function logIn() {
+    var code = prompt("Please enter your staff code.");
     if (code === '0987') {
       window.location.assign("/staff/panel");
+    } else {
+      alert("Incorrect passcode. Please try again.")
     }
   }
 </script>
