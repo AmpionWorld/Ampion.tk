@@ -1,0 +1,17 @@
+<br><br>
+
+<center>
+  <button type="button" onclick="logIn()">Staff Login</button>
+  <br>
+  <button type="button" onclick="location.href='/'">Go back to Home Page</button>
+</center>
+
+<script>
+  var code = prompt("Please enter your staff code.");
+
+  function logIn() {
+    if (code === '0987') {
+      window.location = "/staff/panel";
+    }
+  }
+</script>
