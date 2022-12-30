@@ -24,8 +24,8 @@
 | 🗳️ Ampion Vote             | [http://ampion.tk/vote](/vote)           |
 | 📕 Ampion History          | [http://ampion.tk/history](/history)     |
 | 📊 Ampion Stats            | [http://ampion.tk/stats](/stats)         |
-| 🌱 Touch Grass Simulator   | *Coming 29 December 2022*                |
 | 🎥 Ampion Film Studio      | *Coming 31 December 2022*                |
+| 🌱 Touch Grass Simulator   | *Coming 1 January 2023*                  |
 | 🎮 Ampion Games            | *Coming 3 January 2023*                  |
 
 
@@ -35,5 +35,5 @@
 - Next Ampion pArk Tour will be on Monday, January 9th, 2023.
 - Ampion pArk Quiz Challenge FINAL ROUND will be on Wednesday, January 4th, 2023. 
 
-# Staff Only Zone
+# Other
 [Click here to enter the Staff Only Zone.](/staff)
