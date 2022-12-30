@@ -31,6 +31,7 @@
 
 # Ampion Information Center
 
+- This website has hit 100 views! Thank you!
 - Now you can see Giant Ampion, with Ampion GiantSim! [Start GiantSim Now](/gs)
 - Next Ampion pArk Tour will be on Monday, January 9th, 2023.
 - Ampion pArk Quiz Challenge FINAL ROUND will be on Wednesday, January 4th, 2023. 
