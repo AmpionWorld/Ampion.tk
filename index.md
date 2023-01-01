@@ -24,8 +24,8 @@
 | 🗳️ Ampion Vote             | [http://ampion.tk/vote](/vote)           |
 | 📕 Ampion History          | [http://ampion.tk/history](/history)     |
 | 📊 Ampion Stats            | [http://ampion.tk/stats](/stats)         |
-| 🎥 Ampion Film Studio      | *Coming 31 December 2022*                |
-| 🌱 Touch Grass Simulator   | *Coming 1 January 2023*                  |
+| 🎥 Ampion Film Studio      | *Coming Soon*                            |
+| 🌱 Touch Grass Simulator   | *Coming Soon*                            |
 | 🎮 Ampion Games            | *Coming 3 January 2023*                  |
 
 
