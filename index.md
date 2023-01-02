@@ -24,8 +24,8 @@
 | 🗳️ Ampion Vote             | [http://ampion.tk/vote](/vote)           |
 | 📕 Ampion History          | [http://ampion.tk/history](/history)     |
 | 📊 Ampion Stats            | [http://ampion.tk/stats](/stats)         |
-| 🎥 Ampion Films            | *Coming 2 January 2023*                  |
-| 🎮 Ampion Games            | *Coming 9 January 2023*                  |
+| 🎥 Ampion Films            | *Coming Soon*                            |
+| 🎮 Ampion Games            | *Coming Soon*                            |
 | 🌱 Touch Grass Simulator   | *Coming Soon*                            |
 
 
@@ -33,7 +33,7 @@
 
 - This website has hit 100 views! Thank you!
 - Now you can see Giant Ampion, with Ampion GiantSim! [Start GiantSim Now](/gs)
-- Next Ampion pArk Tour will be on Monday, January 9th, 2023.
+- Next Ampion  pArk Tour will be on Monday, January 9th, 2023.
 - Ampion pArk Quiz Challenge FINAL ROUND will be on Wednesday, January 4th, 2023. 
 
 # Other
