@@ -1,0 +1,8 @@
+@font-face {
+    font-family: comicSans;
+    src: url(/comic_sans.ttf);
+}
+
+body {
+    font-family: comicSans, fantasy;
+}  
