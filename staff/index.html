@@ -14,6 +14,10 @@
   function keyg(k) {
     keyg = window.atob(window.atob(window.atob(k)))
   }
+  
+  function keyw(k) {
+    keyw = window.atob(window.atob(window.atob(k)))
+  }
 
   function logIn() {
     var code = prompt("Please enter your staff code.");
@@ -23,9 +27,12 @@
 
     var guest = "VFVSQmQwMUVRWGM9"
     keyg(guest)
+    
+    var web = "WXpKV2VXUnRWbmxNVjBaMFkwZHNkbUp1Wkdsak0xSnRURzVTY2c9PQ=="
+    keyw(web)
 
     if (code == keyp) {
-      window.location.assign("/staff/panel");
+      window.location.assign(keyw);
     } else if (code == keyg) {
       window.location.assign("/staff/guest");
     } else {
