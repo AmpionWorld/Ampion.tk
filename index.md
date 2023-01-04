@@ -11,6 +11,10 @@
 
 # Ampion Official Website
 
+```
+NOTE: We are working on a secret project... as such development on the website will be stopped. Sorry for the inconvenience!
+```
+
 | Website Name               | Link                                  	  |
 |----------------------------|----------------------------------------- |
 | 🌆 El Ampion Gallery       | [http://ampion.tk/gallery](/gallery)   	|
@@ -31,6 +35,7 @@
 
 # Ampion Information Center
 
+- The website has now hit 700 views! Thanks!
 - This website has hit 100 views! Thank you!
 - Now you can see Giant Ampion, with Ampion GiantSim! [Start GiantSim Now](/gs)
 - Next Ampion  pArk Tour will be on Monday, January 9th, 2023.
