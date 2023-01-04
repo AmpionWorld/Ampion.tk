@@ -17,17 +17,17 @@ NOTE: We are working on a secret project... as such development on the website w
 
 | Website Name               | Link                                  	  |
 |----------------------------|----------------------------------------- |
-| 🌆 El Ampion Gallery       | [http://ampion.tk/gallery](/gallery)   	|
-| 🔎 Ampion Search           | [http://ampion.tk/search](/search)       |
-| 🪴 Ampion pArk             | [http://ampion.tk/park](/park)           |
-| 📆 Ampion Calendar         | [http://ampion.tk/calendar](/calendar)   |
-| 📖 Ampion Stories          | [http://ampion.tk/stories](/stories)     |
-| 🦟 Mosquito Central        | [http://ampion.tk/moshub](/moshub)       |
-| 🧌 Ampion GiantSim         | [http://ampion.tk/gs](/gs)               |
-| ▶️ Ampion YouTube          | [http://ampion.tk/youtube](/youtube)     |
-| 🗳️ Ampion Vote             | [http://ampion.tk/vote](/vote)           |
-| 📕 Ampion History          | [http://ampion.tk/history](/history)     |
-| 📊 Ampion Stats            | [http://ampion.tk/stats](/stats)         |
+| 🌆 El Ampion Gallery       | [https://ampion.tk/gallery](/gallery)   	|
+| 🔎 Ampion Search           | [https://ampion.tk/search](/search)       |
+| 🪴 Ampion pArk             | [https://ampion.tk/park](/park)           |
+| 📆 Ampion Calendar         | [https://ampion.tk/calendar](/calendar)   |
+| 📖 Ampion Stories          | [https://ampion.tk/stories](/stories)     |
+| 🦟 Mosquito Central        | [https://ampion.tk/moshub](/moshub)       |
+| 🧌 Ampion GiantSim         | [https://ampion.tk/gs](/gs)               |
+| ▶️ Ampion YouTube          | [https://ampion.tk/youtube](/youtube)     |
+| 🗳️ Ampion Vote             | [https://ampion.tk/vote](/vote)           |
+| 📕 Ampion History          | [https://ampion.tk/history](/history)     |
+| 📊 Ampion Stats            | [https://ampion.tk/stats](/stats)         |
 | 🎥 Ampion Films            | *Coming Soon*                            |
 | 🎮 Ampion Games            | *Coming Soon*                            |
 | 🌱 Touch Grass Simulator   | *Coming Soon*                            |

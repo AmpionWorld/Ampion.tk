@@ -1,8 +1,8 @@
 @font-face {
-    font-family: AmpionKids;
-    src: url(/comic_sans.ttf);
+    font-family: ampionkids;
+    src: url(https://ampion.tk/comic_sans.ttf);
 }
 
 body {
-    font-family: AmpionKids, "Comic Sans MS", "Comic Sans", fantasy;
+    font-family: ampionkids;
 }  
