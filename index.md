@@ -1,5 +1,5 @@
 <head>
-  <link rel="icon" type="image/x-icon" href=/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-6971NP6T4P"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
