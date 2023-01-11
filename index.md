@@ -12,10 +12,6 @@
 
 # Ampion Official Website
 
-```
-NOTE: We are working on a secret project... as such development on the website will be stopped. Sorry for the inconvenience!
-```
-
 | Website Name               | Link                                  	  |
 |----------------------------|----------------------------------------- |
 | 🌆 El Ampion Gallery       | [https://ampion.tk/gallery](/gallery)   	|
@@ -29,9 +25,9 @@ NOTE: We are working on a secret project... as such development on the website w
 | 🗳️ Ampion Vote             | [https://ampion.tk/vote](/vote)           |
 | 📕 Ampion History          | [https://ampion.tk/history](/history)     |
 | 📊 Ampion Stats            | [https://ampion.tk/stats](/stats)         |
-| 🎥 Ampion Films            | *Coming Soon*                            |
-| 🎮 Ampion Games            | *Coming Soon*                            |
-| 🌱 Touch Grass Simulator   | *Coming Soon*                            |
+| 🎥 Ampion Films            | *Coming this February*                    |
+| 🎮 Ampion Games            | [https://ampion.tk/games](/games)         |
+| 🌱 Touch Grass Simulator   | *Coming this February*                    |
 
 
 # Ampion Information Center
